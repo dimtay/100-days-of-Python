@@ -10,5 +10,8 @@ print("Hello" + " " + "Dima")
 # SyntaxError
 # print("Hello" + " " + "Dima)
 
+# SyntaxError
+# print(("Hello" + " " + "Dima) 
+
 # NameError
 # rint("Hello" + " " + "Dima")
