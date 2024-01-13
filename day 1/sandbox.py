@@ -38,7 +38,7 @@
 
 print("Welcome to the Band Name Generator\n")
 
-city = input("City: ");
-pet = input("Pet: ");
+city = input("City\n");
+pet = input("Pet\n");
 
 print("Alright! Your band name is: "  + city + " " + pet)
