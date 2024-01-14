@@ -1,31 +1,31 @@
-# lesson 1
+## lesson 1
 # print('Hello World!\nHello World!')
 
-# lesson 2
+## lesson 2
 # print("Day 1 - Python Print Function")
 # print("The function is declared like this:")
 # print("print('what to print')")
 
-# concatenation
+## concatenation
 # print("Hello" + " " + "Dima")
 
-# IndentationError
+## IndentationError
 # print("Hello" + " " + "Dima")
 
-# SyntaxError
+## SyntaxError
 # print("Hello" + " " + "Dima)
 
-# SyntaxError
+## SyntaxError
 # print(("Hello" + " " + "Dima) 
 
-# NameError
+## NameError
 # rint("Hello" + " " + "Dima")
 
 # print("Hello " + input("What is your name"))
 
 # print(len(input()))
 
-# lesson 3
+## lesson 3
 # num1 = int(input())
 # num2 = int(input())
 # print(num1 * num2)
